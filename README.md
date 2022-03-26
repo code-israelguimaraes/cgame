@@ -1,2 +1,2 @@
-# cgame
+# Cgame
 Linux Game
